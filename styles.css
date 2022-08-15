@@ -1,0 +1,71 @@
+body{
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.header,
+.hero,
+.footer{
+    background-color: #1f2937;
+}
+
+.logo{
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: 700;
+}
+
+.main{
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
+}
+
+.secondary{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.signup-button,
+.cta-sign{
+    background-color: #3882f6 ;
+    color: #f9faf8;
+}
+
+.information-header{
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+}
+
+.quote{
+    background-color: #e5e7eb;
+}
+
+.quote-text{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;
+}
+
+.quote-author{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.footer{
+    color: #f9faf8;
+}
