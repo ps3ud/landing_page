@@ -93,3 +93,12 @@ a{
 .footer{
     color: #f9faf8;
 }
+
+.header,
+.footer{
+    padding: 8px 144px;
+}
+
+.content >*{
+    padding: 32px 144px;
+}
