@@ -77,6 +77,22 @@ a{
     text-align: center;
 }
 
+.call-to-action{
+    justify-content: center;
+}
+
+.cta-sign{
+    padding: 32px 86px;
+    margin: 16px 0;
+    align-items: center;
+    gap: 128px;
+}
+
+.cta-text-main{
+    font-size: 22px;
+    font-weight: 700;
+}
+
 .main{
     font-size: 48px;
     font-weight: 800;
