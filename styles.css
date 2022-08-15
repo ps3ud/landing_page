@@ -47,6 +47,15 @@ a{
     align-items: center;
 }
 
+.hero,
+.hero-text{
+    justify-content: space-between;
+}
+
+.hero > * {
+    max-width: 480px;
+}
+
 .hero-text{
     flex-flow: column wrap;
 }
